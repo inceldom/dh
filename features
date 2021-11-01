@@ -1,0 +1,103 @@
+Atom II Features
+
+Admin Commands |
+
+*ONLY WORK ON ATOM II USERS*
+
+1. /bring <plrName> 
+2. /kill <plrName>
+3. /ban <plrName> --This is a TROLL ban, not a real ban. but it can trick the player into thinking they were detected.
+4. /ungodmode <plrName> --Turns off their godmode.
+5. /nofarm <plrName> --Turns off the player's autofarms.
+6. /freeze <plrName>
+7. /unfreeze <plrName>
+8. /cleartools <plrName> --Removes all the tools from the player's inventory (including equipped ones)
+9. /announce <message> --Announces a message to all Atom II players.
+10. /force <plrName> --Rapes player. (COMING SOON)
+
+|
+
+Combat |
+
+Auto Dip (Teleports you to a random place when you get low on health)
+Auto Armor
+|
+
+Player |
+
+Speed & Jump Bypass: required to make Speed & Jump Power work
+God Mode: makes you unable to attack others, use ATM autofarming and auto money gun
+Anti Grab
+No Clip
+Fly
+Panic: 2 features: force kill and teleport to hidden place
+Gravity Changer
+No Seats
+Free Korblox: full & normal (FE)
+Break Bones (FE)
+Titan (FE) | Coming soon
+Big Head (FE) requires rthro head
+Invisible (FE)
+|
+
+Teleports |
+
+Teleport to last position
+
+Gun stores
+DB Shotgun
+Hood Fitness
+Bank
+Police Station
+Fast Food
+Pizzeria
+Burgeria
+School Cafeteria
+Theater
+Casino
+Hood Kicks
+
+Any player
+
+All shops
+|
+
+Auto Buy |
+All shops
+|
+
+Farming |
+ATM Farm
+Hospital Farm
+Shoe Farm
+
+Leave at 25k,50k,100k,500k,1M
+Set custom leave goals
+|
+
+Players/Targets |
+Show Money
+Show Bounty
+Teleport
+Check Players near target
+Check Items
+|
+
+Animations |
+Free Walking/Idle/Running etc animations
+|
+
+Money |
+Auto Drop
+Auto Money Gun Drop
+Auto Pick Up Money near you
+|
+
+Misc |
+
+Unjail
+
+Crash Server | Coming soon
+Script users
+Join discord server
+|
